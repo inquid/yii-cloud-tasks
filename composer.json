@@ -20,7 +20,8 @@
   ],
   "require": {
     "php": "^7.3 || ^8.0",
-    "google/cloud-tasks": "dev-master"
+    "google/cloud-tasks": "^1.9",
+    "nesbot/carbon": "^2.46"
   },
   "require-dev": {
     "ergebnis/composer-normalize": "^2.13.2",
@@ -34,7 +35,6 @@
     "phpstan/phpstan-deprecation-rules": "~0.12.6",
     "phpstan/phpstan-phpunit": "~0.12.17",
     "phpstan/phpstan-strict-rules": "~0.12.9",
-    "../../vendor/phpunit/phpunit": "~9.2.6",
     "psalm/plugin-phpunit": "~0.15.1",
     "vimeo/psalm": "^4.5.1"
   },
