@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\Jobs\Helper;
+namespace Inquid\YiiCloudTasks\services\jobs;
 
 /**
  * Interface JobInterface

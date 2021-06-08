@@ -21,7 +21,8 @@
   "require": {
     "php": "^7.3 || ^8.0",
     "google/cloud-tasks": "^1.9",
-    "nesbot/carbon": "^2.46"
+    "nesbot/carbon": "^2.46",
+    "yiisoft/yii2": "~2.0.0"
   },
   "require-dev": {
     "ergebnis/composer-normalize": "^2.13.2",
@@ -64,5 +65,11 @@
   "support": {
     "issues": "https://github.com/inquid/yii-cloud-tasks/issues",
     "source": "https://github.com/inquid/yii-cloud-tasks"
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
 }

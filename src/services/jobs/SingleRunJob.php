@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\Jobs\Helper;
+namespace Inquid\YiiCloudTasks\services\jobs;
 
 /**
  * Class Designed to control when does the Job must run.

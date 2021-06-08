@@ -1,13 +1,12 @@
 <?php
 
 
-namespace app\Jobs\Helper;
+namespace Inquid\YiiCloudTasks\services\jobs;
 
 use Carbon\Carbon;
 use DateTimeZone;
 use Google\ApiCore\ApiException;
 use Yii;
-use yii\helpers\Url;
 
 /**
  * Class JobScheduler
