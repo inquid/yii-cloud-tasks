@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1c04af20e312f513cd2296d5188978fe",
+    "content-hash": "00604ea3b50536a473810dd04edff4b1",
     "packages": [
         {
             "name": "firebase/php-jwt",
@@ -3645,16 +3645,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "0.12.91",
+            "version": "0.12.93",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "8226701cd228a0d63c2df995de7ab6070c69ac6a"
+                "reference": "7b7602f05d340ffa418c59299f8c053ac6c3e7ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/8226701cd228a0d63c2df995de7ab6070c69ac6a",
-                "reference": "8226701cd228a0d63c2df995de7ab6070c69ac6a",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/7b7602f05d340ffa418c59299f8c053ac6c3e7ea",
+                "reference": "7b7602f05d340ffa418c59299f8c053ac6c3e7ea",
                 "shasum": ""
             },
             "require": {
@@ -3685,7 +3685,7 @@
             "description": "PHPStan - PHP Static Analysis Tool",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan/issues",
-                "source": "https://github.com/phpstan/phpstan/tree/0.12.91"
+                "source": "https://github.com/phpstan/phpstan/tree/0.12.93"
             },
             "funding": [
                 {
@@ -3705,7 +3705,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-07-04T15:31:48+00:00"
+            "time": "2021-07-20T10:49:53+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
@@ -3760,16 +3760,16 @@
         },
         {
             "name": "phpstan/phpstan-phpunit",
-            "version": "0.12.20",
+            "version": "0.12.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan-phpunit.git",
-                "reference": "efc009981af383eb3303f0ca9868c29acad7ce74"
+                "reference": "6aaff1196c4f808769774b49a94a60e5fdf18de7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan-phpunit/zipball/efc009981af383eb3303f0ca9868c29acad7ce74",
-                "reference": "efc009981af383eb3303f0ca9868c29acad7ce74",
+                "url": "https://api.github.com/repos/phpstan/phpstan-phpunit/zipball/6aaff1196c4f808769774b49a94a60e5fdf18de7",
+                "reference": "6aaff1196c4f808769774b49a94a60e5fdf18de7",
                 "shasum": ""
             },
             "require": {
@@ -3808,9 +3808,9 @@
             "description": "PHPUnit extensions and rules for PHPStan",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan-phpunit/issues",
-                "source": "https://github.com/phpstan/phpstan-phpunit/tree/0.12.20"
+                "source": "https://github.com/phpstan/phpstan-phpunit/tree/0.12.21"
             },
-            "time": "2021-06-17T08:28:30+00:00"
+            "time": "2021-07-14T10:48:30+00:00"
         },
         {
             "name": "phpstan/phpstan-strict-rules",
